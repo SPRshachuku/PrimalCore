@@ -1618,9 +1618,9 @@ tooltip.info.abstract_passes_fluids=液体
 tooltip.info.abstract_passes_gas=黑烟/蒸汽
 tooltip.info.abstract_grid_crafting_tool=用于工作台中合成
 tooltip.info.abstract_world_crafting_tool=用于在世界中加工方块
-tooltip.info.abstract_world_craft_blade=使用工作刀在世界中加工获得
-tooltip.info.abstract_world_craft_hammer=使用瓜锤在世界中加工获得
-tooltip.info.abstract_world_craft_axe=使用斧子在世界中加工获得
+tooltip.info.abstract_world_craft_blade=使用工作刀加工方块获得
+tooltip.info.abstract_world_craft_hammer=使用瓜锤加工方块获得
+tooltip.info.abstract_world_craft_axe=使用斧子加工方块获得
 tooltip.info.abstract_material_warning=0输出，请升级工具材料
 
 # -- food -- #
@@ -1638,7 +1638,7 @@ tooltip.info.food_comment_cheese_red=Ad Vitam Aeternam
 tooltip.info.plant_seed_any=可种植在方块表面
 tooltip.info.plant_seed_soil=可种植在草方块或泥土上
 tooltip.info.plant_seed_grass=可种植在草方块上
-tooltip.info.plant_seed_grass_shade=可种植在阴处的草方块上
+tooltip.info.plant_seed_grass_shade=可种植在荫处的草方块上
 tooltip.info.plant_seed_farmland=可种植在耕地上
 tooltip.info.plant_seed_farmland_nether=可种植在下界耕地上
 tooltip.info.plant_seed_by_lava=可种植在岩浆附近
@@ -1666,9 +1666,9 @@ tooltip.info.hibachi_crafting=烹饪物品
 tooltip.info.shelf_storage=潜行点击拿走一组
 tooltip.info.pitfall_falldamage=造成的伤害与摔落伤害成比例
 tooltip.info.pitfall_collision=造成碰撞伤害
-tooltip.info.cineris_carpet=将实体推往地毯面朝的方向
+tooltip.info.cineris_carpet=根据朝向推动实体
 tooltip.info.ineris_carpet=随机传送实体
-tooltip.info.redstone_sand=摇坠如沙，不动如岩
+tooltip.info.redstone_sand=坠如沙，坐如岩
 tooltip.info.ladder_placement=自动往上或下摆放
 tooltip.info.thatch_support=板条可为其提供额外支持
 tooltip.info.slats_support=能给茅草提供额外支持
@@ -1678,7 +1678,7 @@ tooltip.info.storage_crate_inventory=保留内容物
 tooltip.info.charcoal_output=产生的木炭分品级
 tooltip.info.charcoal_crafting=埋在泥土或类似方块中
 tooltip.info.mud_harvest=挖掉湿润的耕地获得
-tooltip.info.satetsu=砂铁
+tooltip.info.satetsu=砂鉄
 
 # -- chat messages -- #
 #chat.message.cannot_sleep=你现在不能睡觉，床的位置已设置
@@ -1686,7 +1686,7 @@ tooltip.info.satetsu=砂铁
 chat.message.set_spawn=床的位置已设置
 chat.message.cannot_set_spawn=你现在不能设置床的位置
 chat.message.cannot_sleep=你无法睡觉
-chat.message.cannot_sleep_disease=你从忐忑不安中醒来
+chat.message.cannot_sleep_disease=你在忐忑不安中醒来
 chat.message.cannot_sleep_monster=一身冷汗将你惊醒了
 chat.message.fish_trap_needs_water=鱼栅周围需要更多的水
 
