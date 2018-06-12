@@ -1621,7 +1621,7 @@ tooltip.info.abstract_world_crafting_tool=用于在世界中加工方块
 tooltip.info.abstract_world_craft_blade=使用工作刀加工方块获得
 tooltip.info.abstract_world_craft_hammer=使用瓜锤加工方块获得
 tooltip.info.abstract_world_craft_axe=使用斧子加工方块获得
-tooltip.info.abstract_material_warning=0输出，请升级工具材料
+tooltip.info.abstract_material_warning=若没有输出，请升级工具材料
 
 # -- food -- #
 tooltip.info.food_is_bait=鱼栅鱼饵
